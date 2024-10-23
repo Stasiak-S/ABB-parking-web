@@ -20,7 +20,7 @@ if(FetchedData.length>0){
   let data=FormatedData;
   return(
     <div className="body">
-      <NavBar Page={page}/>
+      <NavBar Page="Requests"/>
       <DataTable 
       columns={columns}
       data={data}

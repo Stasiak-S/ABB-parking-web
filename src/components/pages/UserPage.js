@@ -1,11 +1,11 @@
 import React from "react";
-import UserBody from "./pageBodies/UserPageBody.js"
+import UserBody from "../pageBodies/UserBody";
 
-function Users() {
+function User() {
 
   return (
     <UserBody/>
   );
 }
 
-export default Users;
+export default User;
