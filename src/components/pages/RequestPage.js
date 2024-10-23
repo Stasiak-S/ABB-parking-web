@@ -1,5 +1,5 @@
 import React from "react";
-import RequestBody from "../components/pageBodies/RequestPageBody";
+import RequestBody from "./pageBodies/RequestPageBody";
 
 
 const Request = () => {

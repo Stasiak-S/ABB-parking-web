@@ -1,5 +1,5 @@
 import React from "react";
-import UserBody from "../components/pageBodies/UserPageBody.js"
+import UserBody from "./pageBodies/UserPageBody.js"
 
 function Users() {
 

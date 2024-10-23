@@ -1,5 +1,5 @@
 import React from "react";
-import ReservationBody from "../components/pageBodies/ReservationBody";
+import ReservationBody from "../pageBodies/ReservationBody";
 
 const Reservation = () => {
     return(
