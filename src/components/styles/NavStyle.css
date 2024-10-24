@@ -1,18 +1,10 @@
 .nav-bar {
-  width: auto;
-  list-style: none;
-  padding: 0px;
-  font-family: Sans-Serif;
   font-size: 25px;
   text-align: center;
 }
 
 .nav-bar li {
-  list-style-type: none;
   display: inline-block;
-  vertical-align: top;
-  text-decoration: none;
-  text-align: center;
   margin: 10px;
 
 }
